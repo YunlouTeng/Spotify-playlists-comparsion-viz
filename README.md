@@ -1,4 +1,15 @@
-# Spotify-playlists-comparsion-viz
+## Spotify-playlists-comparsion-viz: Project Overview
+
+
+
+
+* **Interesting findings**:
+
+  * Location is an important factor in determining salary for both data scientists and data analysts, with cities such as San Francisco, New York, and Seattle offering the highest salaries.
+  
+  * The demand for data scientists and analysts is highest in industries such as technology, finance, and healthcare. Professionals working in these industries can expect to earn higher salaries than those in other industries.
+  
+* **Future work**: Building a client facing API using flask, and intergrate this salary prediction model into [my cover letter generator website](https://yunlouteng-cover-letter-hero.streamlit.app) as a fun feature
 
 
 ## Code and Resources Used
