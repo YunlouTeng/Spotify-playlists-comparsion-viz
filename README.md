@@ -14,7 +14,6 @@
 
 [^1]: Predicted by Spotify.
 [^2]: For Danceability, Energy, Liveness, Speechiness: 0% represents the possible lowest, while 100% represents the possible highest.
-* **Future work**: 
 
 
 ## Code and Resources Used
