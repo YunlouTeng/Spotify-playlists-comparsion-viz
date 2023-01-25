@@ -5,10 +5,11 @@
 
 * **Interesting findings**:
 
-  * For the popularity my musice taste is more broaden 
+  * The overall popularity and audio features levels of my playlist is between TOP50 Taiwan and TOP50 USA, but have broader distribution range in each features.
   
   * The demand for data scientists and analysts is highest in industries such as technology, finance, and healthcare. Professionals working in these industries can expect to earn higher salaries than those in other industries.
-  
+
+,0% represents the possible lowest, while 100% represents the possible highest,
 * **Future work**: 
 
 
