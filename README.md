@@ -3,11 +3,11 @@
 
 ## Code and Resources Used
 
-**Python Version** 3.8
+**Python Version**: 3.8
 
-**Modules** numpy, pandas, sklearn, seaborn, spotipy
+**Modules**: numpy, pandas, sklearn, seaborn, spotipy
 
-**Tools** Google Colab, Tableau
+**Tools**: Google Colab, Tableau
 
 **Inspirations**:https://medium.com/@paigevsmyth/day-35-box-whisker-plots-for-spotify-audio-features-4e175c0a7b18
 
