@@ -1,6 +1,6 @@
 ## Spotify-playlists-comparsion-viz: Project Overview
 
-[For the Interactive version dashboard](https://public.tableau.com/views/spotifyplaylistsdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[For the Interactive version dashboard](https://public.tableau.com/app/profile/jake6334/viz/spotify_playlists_workbook/Dashboard1)
 ![alt text](https://github.com/YunlouTeng/Spotify-playlists-comparsion-viz/blob/main/Dashboard.png)
 
 * **Interesting findings**:
