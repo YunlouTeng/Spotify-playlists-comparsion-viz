@@ -3,6 +3,9 @@
 [For the Interactive version dashboard](https://public.tableau.com/app/profile/jake6334/viz/spotify_playlists_workbook/Dashboard1)
 ![alt text](https://github.com/YunlouTeng/Spotify-playlists-comparsion-viz/blob/main/Dashboard_.png)
 
+* **Introduction**: Explore the differences in music preferences among listeners in different geographic regions with my visualization project. By comparing Spotify's TOP 50 USA, TOP 50 Taiwan, and my personal playlist, I aim to uncover insights on the popularity and essential audio features of tracks. Specifically, the TOP 50 USA playlist represents listeners in North America, while the TOP 50 Taiwan playlist represents those who enjoy Mandarin pop music. My personal playlist reflects my own preferences and includes both Mandarin and American English songs. Join me as I delve into the data and discover the unique rhythms of different regions."
+
+
 * **Interesting findings**:
 
   * My playlist's audio feature score[^1] is above average when compared to TOP50 USA, but it lacks popularity[^2]. Furthermore, it encompasses a wider range of features than both TOP50 USA and TOP50 Taiwan.
